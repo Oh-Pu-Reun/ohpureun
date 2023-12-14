@@ -16,9 +16,9 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [첫 번째 프로젝트](https://github.com/SMHRD-2021-KDT-BigData-19/dicogram.git)
+### 1. [첫 번째 프로젝트](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git)
 >첫 번째 프로젝트 간략 소개 (팀 프로젝트)  
->개발 기간: 2023.10.30 ~ 2023.12.13  
+>개발 기간: 2023.11.28 ~ 2023.12.13  
 >  
 >기술 스택:  
 >Java 1.8 / JSP/SERVLET / Oracle DB / Mybatis / HTML / CSS / JS

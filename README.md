@@ -21,7 +21,7 @@
 >개발 기간: 2023.10.30 ~ 2023.12.13  
 >  
 >기술 스택:  
->Java 9 / HTML / CSS / Javascript / Oracle  
+>Java 1.8 / JSP/SERVLET / Oracle DB / Mybatis / HTML / CSS / JS
 >  
 >[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/cbp.git) 참고
 
